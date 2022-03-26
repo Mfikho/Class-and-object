@@ -1,0 +1,6 @@
+D:\21.11.4516\Taxi.cs\Taxi.cs\Taxi.cs\bin\Debug\Taxi.cs.exe.config
+D:\21.11.4516\Taxi.cs\Taxi.cs\Taxi.cs\obj\Debug\Taxi.cs.csprojResolveAssemblyReference.cache
+D:\21.11.4516\Taxi.cs\Taxi.cs\Taxi.cs\bin\Debug\Taxi.cs.exe
+D:\21.11.4516\Taxi.cs\Taxi.cs\Taxi.cs\bin\Debug\Taxi.cs.pdb
+D:\21.11.4516\Taxi.cs\Taxi.cs\Taxi.cs\obj\Debug\Taxi.cs.exe
+D:\21.11.4516\Taxi.cs\Taxi.cs\Taxi.cs\obj\Debug\Taxi.cs.pdb
